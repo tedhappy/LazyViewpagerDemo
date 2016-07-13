@@ -1,4 +1,4 @@
-package com.itheima13.smartbeijing.view;
+package com.example.why.view;
 
 /*
  * Copyright (C) 2011 The Android Open Source Project
